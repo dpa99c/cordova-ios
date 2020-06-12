@@ -40,7 +40,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "cordova-common": "git+https://github.com/dpa99c/cordova-common.git#GH-144",
+    "cordova-common": "git+https://github.com/apache/cordova-common.git",
     "fs-extra": "^9.0.0",
     "ios-sim": "^8.0.2",
     "nopt": "^4.0.3",
